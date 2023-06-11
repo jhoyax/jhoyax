@@ -15,5 +15,5 @@
 <br>
 
 <a href="https://wakatime.com/@jhoyax">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jhoyax&layout=compact" alt="jhoyax's wakatime stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jhoyax&layout=compact&theme=gotham" alt="jhoyax's wakatime stats" />
 </a>
